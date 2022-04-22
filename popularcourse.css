@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sec-1 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    height: 630px;
+    width: 30%;
+    margin-right: 20px;
+    background-color: antiquewhite;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(3, 13, 22);
+}
+
+.title {
+    text-align: center;
+    font-size: large;
+    margin-top: 15px;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+    border-radius: 5px 5px 0 0;
+}

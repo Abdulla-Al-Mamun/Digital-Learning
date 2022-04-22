@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 17%;
+    float: left;
+    margin-right: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+.container {
+    text-align: center;
+    color: rgb(3, 13, 22);
+}
+
+img {
+    border-radius: 25px 5px 0 0;
+}
